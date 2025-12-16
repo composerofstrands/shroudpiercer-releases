@@ -5,7 +5,7 @@ Shroudpiercer calculates the full eligible pool and actual draw probabilities
 based on your empire setup and research state.
 
 ## Downloads
-**Download the latest alpha build github.com/composerofstrands/shroudpiercer-releases/releases/latest**
+**Download the latest alpha build https://github.com/composerofstrands/shroudpiercer-releases/releases/latest**
 
 ## Compatibility
 - Stellaris: **4.1.6**
