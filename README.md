@@ -8,8 +8,8 @@ based on your empire setup and research state.
 **Download the latest alpha build https://github.com/composerofstrands/shroudpiercer-releases/releases/latest**
 
 ## Compatibility
-- Stellaris: **4.1.6**
-- Shroudpiercer: **v0.1.0-alpha**
+- Stellaris: **4.2.4**
+- Shroudpiercer: **v0.2.0-alpha**
 
 ## Features (Alpha)
 - Configure empire setup (ethics, civics, origin)
